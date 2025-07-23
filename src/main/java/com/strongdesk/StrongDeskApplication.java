@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class StrongDeskApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(StrongDeskApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(StrongDeskApplication.class, args);
+  }
 }
